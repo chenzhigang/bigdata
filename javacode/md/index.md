@@ -3,5 +3,5 @@
 目录
 
 1. 第一章
-  + 1.1 [java开发环境配置](javacode\1.1.md)
+  + 1.1 [java开发环境配置](javacode\md\1.1.md)
     	
